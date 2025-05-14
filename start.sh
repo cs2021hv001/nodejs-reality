@@ -1,6 +1,6 @@
 #!/bin/bash
 export UUID=${UUID:-'b4bcbea6-3455-b752-d12b-de87a5c4a400'}
-export SERVER_PORT="${SERVER_PORT:-${PORT:-7860}}"
+export SERVER_PORT="${SERVER_PORT:-${PORT:-62670}}"
 export NEZHA_SERVER=${NEZHA_SERVER:-'nz.abc.cn'} 
 export NEZHA_PORT=${NEZHA_PORT:-'5555'}     
 export NEZHA_KEY=${NEZHA_KEY:-''}  
